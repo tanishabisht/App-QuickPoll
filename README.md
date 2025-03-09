@@ -10,10 +10,10 @@ Pollify is a **Svelte-based polling application** that allows users to create, v
 ✅ **Data persistence** using local storage (or Firebase for real-time updates)  
 
 ### 🛠️ **Tech Stack**  
-- **Frontend:** Svelte, SvelteKit (optional)  
-- **Styling:** Tailwind CSS / CSS Modules  
-- **Data Storage:** Local Storage / Firebase (optional)  
-- **Deployment:** Vercel / Netlify  
+- **Frontend:** Svelte
+- **Styling:** CSS Modules  
+- **Data Storage:** Local Storage 
+<!-- - **Deployment:** Vercel / Netlify   -->
 
 ### 🔧 **Installation & Setup**  
 ```bash
